@@ -2,6 +2,10 @@
   "name": "admin-lte-2-sass",
   "version": "0.0.1",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/onkbear/admin-lte-2-sass"
+  },
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
