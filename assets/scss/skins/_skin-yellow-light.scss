@@ -2,6 +2,10 @@
  * Skin: Yellow
  * ------------
  */
+@import "../../bootstrap-sass/bootstrap/variables";
+@import "../../bootstrap-sass/bootstrap/mixins";
+@import "../variables";
+@import "../mixins";
 
 .skin-yellow-light {
   //Navbar
