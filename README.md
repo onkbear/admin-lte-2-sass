@@ -13,9 +13,9 @@ Sass for [AdminLTE 2](https://github.com/ColorlibHQ/AdminLTE)
 $ npm install admin-lte-2-sass
 ```
 
-```sass
-// Implement as you want 
-@import "~admin-lte-2-sass/assets/scss/AdminLTE.scss";
+```scss
+// Implement as you want
+@import "~admin-lte-2-sass/assets/scss/AdminLTE";
 @import "~admin-lte-2-sass/assets/scss/skins/all-skins";
 ```
 
