@@ -10,7 +10,7 @@
   "dependencies": {},
   "devDependencies": {
     "bootstrap-sass": "^3.4.1",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   },
   "scripts": {
     "copy-bootstrap": "yarn run copy-bootstrap-sass && yarn run copy-bootstrap-font",
